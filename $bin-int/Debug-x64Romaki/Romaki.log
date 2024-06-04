@@ -1,0 +1,4 @@
+﻿  Application.cpp
+  LINK : C:\dev\Romaki\$bin\Debug-x64Romaki\Romaki.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\dev\Romaki\$bin\Debug-x64Romaki\Romaki.lib and object C:\dev\Romaki\$bin\Debug-x64Romaki\Romaki.exp
+  Romaki.vcxproj -> C:\dev\Romaki\$bin\Debug-x64Romaki\Romaki.dll
